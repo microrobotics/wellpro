@@ -1,5 +1,6 @@
-# Wellpro
-WELLPRO Products and software 
+## Wellpro
+
+### WELLPRO Product Manuals 
 
 - WP8024ADAM: WELLPRO RS485 MODBUS RTU 8DI-4RO
 - WP8026ADAM: WELLPRO RS485 MODBUS RTU 16DI
@@ -10,5 +11,5 @@ WELLPRO Products and software
 - WP3078ADAM: WELLPRO RS485 MODBUS RTU 3AO 
 - WP3066ADAM: WELLPRO RS485 MODBUS RTU 8-DS18B20
 
-# For Modbus Addresses see this file  
+### For Modbus Addresses see this file  
 - WELLPRO MODBUS RTU register address.pdf
