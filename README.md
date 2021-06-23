@@ -15,7 +15,10 @@
 - WELLPRO MODBUS RTU register address.pdf
 
 ### WELLPRO Debug Software
-- The current version we have received from WELLPRO is ver 1.4
+- Filename : WELLPRO Debug Software.zip
+- Current version 1.4
+- WELLPRO utility software is sometimes mistakenly flagged as malware. 
+
 
 ![image](https://user-images.githubusercontent.com/4562957/123138065-eccaff00-d454-11eb-8e58-1690c0d7fed1.png)
 
