@@ -15,7 +15,9 @@
 - WELLPRO MODBUS RTU register address.pdf
 
 ### WELLPRO Debug Software
-![image](https://user-images.githubusercontent.com/4562957/123137895-c4430500-d454-11eb-8ec5-8c21149e15df.png)
+- The current version we have received from WELLPRO is ver 1.4
+
+![image](https://user-images.githubusercontent.com/4562957/123138065-eccaff00-d454-11eb-8e58-1690c0d7fed1.png)
 
 
 
